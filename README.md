@@ -20,8 +20,6 @@ final album.
 
 ## Key Findings
 * TTR generally increases across the Beatles' discography; their lexical diversity grows over time.
-* Sgt. Pepper's and Magical Mystery Tour isolate themselves in tf-idf clustering because their vocab is
-uniquely distinct compared to the rest of their catalog.
+* Sgt. Pepper's and Magical Mystery Tour isolate themselves in tf-idf clustering because their vocabulary is uniquely distinct compared to the rest of their catalog.
 * Early and late Beatles share surface-level vocabulary, but diverge semantically.
-* Close readings of "Twist and Shout," "Norwegian Wood," "Being for the Benefit of Mr. Kite!,"
-* "I Want You (She's So Heavy)," and "I Am the Walrus" grounds analyses in the actual lyrics.
+* Close readings of "Twist and Shout," "Norwegian Wood," "Being for the Benefit of Mr. Kite!," "I Want You (She's So Heavy)," and "I Am the Walrus" grounds analyses in the actual lyrics.
